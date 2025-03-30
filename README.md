@@ -1,0 +1,2 @@
+# Deciphering-Diabetes
+Final project for Stats 303-1: Attempted to determine the current status of diabetes in the US, historical factors affecting diabetes outcomes, and specific drug use and their outcomes
